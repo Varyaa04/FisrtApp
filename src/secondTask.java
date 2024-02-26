@@ -33,7 +33,6 @@ public class secondTask
                    num = in.nextInt();
 
                }
-
            }
         }
         else if (num == 0){
