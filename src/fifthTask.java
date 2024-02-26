@@ -22,8 +22,7 @@ public class fifthTask
             ds = in.nextInt();
         }
         System.out.print(dost[ds-6]);
-                System.out.print(" "+masti[ms-1]);
-
+        System.out.print(" "+masti[ms-1]);
     }
 }
 

@@ -13,7 +13,6 @@ public class firstTask {
                     summach += a;
 
                 }
-
                 System.out.print("Итог: " + summach);
             } else {
                 System.out.print("Ошибка!Число должно быть положительным!");

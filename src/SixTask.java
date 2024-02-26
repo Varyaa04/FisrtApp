@@ -16,6 +16,5 @@ public class SixTask {  public static void  main(String args[])
 
 
 
-
 }
 }

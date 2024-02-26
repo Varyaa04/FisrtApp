@@ -14,7 +14,6 @@ public class foufthTask {
         }
 
 
-
     } else {
         System.out.print("Ошибка!Число должно быть положительным!");
     }

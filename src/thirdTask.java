@@ -9,3 +9,4 @@ public class thirdTask
         System.out.println("Компьютер загадал число от 1 до 9. Попробуй угадать: ");
         int num = in.nextInt();
     }}
+

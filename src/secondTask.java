@@ -42,4 +42,5 @@ public class secondTask
         else{
             System.out.print("Ошибка!Число должно быть положительным!");
         }
-    }}
+    }
+}
