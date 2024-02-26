@@ -11,7 +11,6 @@ public class firstTask {
                     int a = num % 10;
                     num = num / 10;
                     summach += a;
-
                 }
                 System.out.print("Итог: " + summach);
             } else {

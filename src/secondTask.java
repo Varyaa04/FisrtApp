@@ -18,7 +18,7 @@ public class secondTask
                    num = in.nextInt();
                }
                 if (num < randomch)
-               {
+                {
                    System.out.print("загаданное число больше!");
                    num = in.nextInt();
                }

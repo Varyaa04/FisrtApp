@@ -12,9 +12,8 @@ public class SixTask {  public static void  main(String args[])
         System.out.print("Ошибка!Начало с 4 года н.э.");
     }
 
-
-
-
-
+    for (int i = 0; i < 5; i++) {
+        System.out.println(color[i]);
+    }
 }
 }
